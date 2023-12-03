@@ -1,4 +1,5 @@
-# MBTI matching social app / M친톡 - MBTI를 이용한 친구 찾기 톡!
+# MBTI matching social app / M친톡 - MBTI를 이용한 친구 찾기 톡! <br>(업데이트 중입니다.)
+<br><br>
 
 ## 프로젝트 소개
 MBTI 친구 톡의 줄임말인 M친톡은 MBTI를 이용해서 자신의 MBTI와 상성이 잘 맞는 친구나 이성을 매칭을 시켜주는 소셜 앱입니다.
